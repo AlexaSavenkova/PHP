@@ -1,0 +1,6 @@
+.catalog {
+    display: flex;
+}
+.item {
+    text-align: center;
+}
